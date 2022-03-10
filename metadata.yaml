@@ -1,5 +1,8 @@
 _repo: Dr-Paulls-Theory-A-Romance_67437
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67437-h/images/cover.jpg
 creator:
   author:
     agent_name: Diehl, Alice M. (Alice Mangold)
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '41318'
     url: http://www.gutenberg.org/2009/agents/41318
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67437#Dr-Paulls-Theory-A-Romance
 gutenberg_issued: '2022-02-18'
 identifiers:
   gutenberg: '67437'
